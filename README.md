@@ -1,0 +1,1 @@
+# Exploring-Prompt-Design-for-Genre-Specific-Image-Generation-with-Stable-Diffusion-v1.4
